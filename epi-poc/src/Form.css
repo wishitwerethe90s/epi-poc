@@ -1,0 +1,14 @@
+.form-container {
+    width: 75%;
+    margin-inline: auto;
+}
+
+.form-field {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem; /* Add spacing below the heading */
+}
+
+.form-note {
+    margin-top: 1rem; /* Add spacing above the note */
+}

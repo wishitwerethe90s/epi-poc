@@ -4,7 +4,7 @@ import Form from './Form';
 function App() {
     return (
         <div className="App">
-            <h1>Form Submission</h1>
+            <h1 className="form-header">EPI Simulator</h1>
             <Form />
         </div>
     );
